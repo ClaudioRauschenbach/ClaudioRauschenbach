@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ClaudioRauschenbach
+- 👋 Hi, I’m @ClaudioRauschenbach, Soy Ingeniero Electronico con orientacion Industrial. En la actualidad me dedico a fabricar y comercializar Grupos electrogenos, para soportes de corte de energia.
 - 👀 I’m interested in  compartir informacion hacerca de las nuevas tecnologias, aplicadas en el ambito Industrial. Como ser Programacion de sistemas embebidos, PLCs de distintas marcas
 - servocontroles, Arduino, Raspberry pi etc
 - 🌱 I’m currently learning  a utilizar Raspberry pi. Para ello concentro mi atencion en Programas como Codesys y Node Red.
